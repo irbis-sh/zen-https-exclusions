@@ -69,6 +69,8 @@ payu.com
 pay.amazon.com
 klarna.com
 checkout.com
+payment.airastana.com
+commonpay.ajet.com
 
 # Messengers
 whatsapp.net
