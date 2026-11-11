@@ -68,6 +68,7 @@ sis.redsys.es
 payu.com
 pay.amazon.com
 klarna.com
+checkout.com
 
 # Messengers
 whatsapp.net
